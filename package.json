@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "react-scripts start"
   },
   "engines": {
     "npm": "8.1.0",
